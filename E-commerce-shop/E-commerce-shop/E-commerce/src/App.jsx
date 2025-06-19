@@ -23,7 +23,7 @@ import Popup from "./components/Popup/Popup";
 import Login from "./components/Login/Login";
 
 // ✅ Import route pages
-import KidsWear from "./components/KidsWear/kidswear";
+import KidsWear from "./components/KidsWear/KidsWear";
 import TopRated from "./components/TopRated/TopRated";
 import MensWear from "./components/MensWear/MensWear";
 import WomanWear from "./components/WomanWear/WomanWear";
